@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @two-brothers-coding
-- 👀 I’m interested in PHP,laravel,mysql
-- 🌱 I’m currently learning   php
-- 💞️ I’m looking to collaborate on PHP,Laravel,Mysql
+- 👀 I’m interested in react,javascript
+- 🌱 I’m currently learning   react
+- 💞️ I’m looking to collaborate on react,javascript
 - 📫 How to reach me stefantopbazzx15@gmail.com
 
 <!---
