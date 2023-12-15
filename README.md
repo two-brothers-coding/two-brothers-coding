@@ -2,7 +2,7 @@
 - 👀 I’m interested in react,javascript
 - 🌱 I’m currently learning   react
 - 💞️ I’m looking to collaborate on react,javascript
-- 📫 How to reach me stefantopbazzx15@gmail.com
+- 📫 How to reach me codingbrothers94@gmail.com
 
 <!---
 two-brothers-coding/two-brothers-coding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
